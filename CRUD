@@ -1,0 +1,13 @@
+Create, read, update and delete
+
+In computer programming, Create, Read, Update, and Delete (CRUD) are four basic operations of persistent storage. CRUD is also sometimes used to describe user interface conventions that facilitate viewing, searching, and changing information using computer-based forms and reports. The term was likely first popularized by James Martin in his1983 book Managing the Data-base enviroment.
+
+Conceptual
+
+Data can be put in a location/area of a storage mechanism.
+
+    • The fundamental feature of a storage location is that its content is both readable and updatable.
+    • Before a storage location can be read or updated it needs to be created; that is allocated and initialized with content. 
+    • At some later point the storage location may need to be destructed; that is finalized and deallocated.
+
+Together these four operations make up the basic operations of storage management known as CRUD: Create, Read, Update, and Delete.
